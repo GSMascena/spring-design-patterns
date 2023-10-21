@@ -28,11 +28,11 @@ public class Client {
         this.name = name;
     }
 
-    public Address getAdress() {
+    public Address getAddress() {
         return address;
     }
 
-    public void setAdress(Address address) {
+    public void setAddress(Address address) {
         this.address = address;
     }
 }
